@@ -6,9 +6,4 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cilab-ufersa/)
 [![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cilab.ufersa/)
 
----
 
-## Top contributors
-<a href="https://github.com/cilab-ufersa/introduction_machine_learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cilab-ufersa/introduction_machine_learning">
-</a>
