@@ -4,6 +4,6 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/cilab-ufersa/)
-[![Instagram](https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cilab.ufersa/)
+[![Instagram](https://img.shields.io/badge/instagram-FF5722?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cilab.ufersa/)
 
 
