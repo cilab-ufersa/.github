@@ -15,6 +15,7 @@ Our students learn:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" width="42" alt="pandas logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" width="42" alt="numpy logo"  />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="35" width="42" alt="streamlit logo"  />
   
 </div>
 
